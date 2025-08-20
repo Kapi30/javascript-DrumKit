@@ -26,13 +26,4 @@ This project allows users to play drum sounds by pressing specific keys on the k
 - Adding and removing CSS classes dynamically
 - Working with `data-*` attributes
 
-## 📁 Project Structure
 
-drum-kit/
-├── index.html
-├── style.css
-├── script.js
-└── sounds/
-├── boom.wav
-├── clap.wav
-└── ...
